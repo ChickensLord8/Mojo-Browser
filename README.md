@@ -1,3 +1,6 @@
+# End of support
+ MojoX will not support Mojo Browser 1.0  
+
 # Mojo Browser
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
